@@ -1,6 +1,6 @@
 import os
 import shutil
-from path import *
+import pathlib
 
 class Processing_of_Files: # класс обработчика файлов
     def __init__(self):

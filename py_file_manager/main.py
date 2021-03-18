@@ -1,5 +1,4 @@
-from path import *
-from commands import *
+from py_file_manager.py_file_manager.commands import *
 
 def main():
     file_processing = Processing_of_Files() # создаем объект класса обработчик файлов
